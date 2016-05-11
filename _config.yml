@@ -1,0 +1,28 @@
+name: enderhxc
+favicon: null
+layout_spectrum: 0.24681809358298779
+typography_spectrum: 0.20031662634573877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.515205344883725
+  lightness: 0.07061705435626209
+  saturation: 0.10332781868055463
+  rhythmicContrast: 0.8296404762659222
+purpose: []
